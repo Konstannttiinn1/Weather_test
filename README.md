@@ -1,2 +1,3 @@
 # Weather_test
 Тестовое задание для отображение погоды в телеграмм боте
+![image](https://github.com/user-attachments/assets/e74080ce-9452-46f2-9aea-eccabc7ae303)
